@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an acoustic & vibrations engineer and a software developer, currently working as a research engineer at Université Gustave Eiffel with the wonderful peaople in [UMRAE](https://www.umrae.fr/) and [SPLOTT](https://splott.univ-gustave-eiffel.fr/) labs.
+I'm an acoustic & vibrations engineer and a software developer, currently working as a research engineer at Université Gustave Eiffel with the wonderful people in [UMRAE](https://www.umrae.fr/) and [SPLOTT](https://splott.univ-gustave-eiffel.fr/) labs.
 
 I am currently working on :
 
